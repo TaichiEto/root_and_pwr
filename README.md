@@ -1,2 +1,2 @@
-## 説明
+## ABSTRACT
 practice of competitive programming
