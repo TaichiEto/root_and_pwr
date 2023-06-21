@@ -1,4 +1,4 @@
-n = int(input("任意の整数を入力してください: "))
+n = int(input(""))
 roots = []
 pwrs = []
 
